@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "requirements.txt",
+      "use": "@vercel/python",
+      "config": {
+        "pythonVersion": "3.12"
+      }
+    }
+  ],
+  "commands": [
+    {
+      "cmd": "python -m Adarsh"
+    }
+  ]
+}
