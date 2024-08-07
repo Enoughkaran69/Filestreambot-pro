@@ -11,7 +11,7 @@
   ],
   "commands": [
     {
-      "cmd": "python -m Adarsh"
+      "buildCommand": "python -m Adarsh"
     }
   ]
 }
